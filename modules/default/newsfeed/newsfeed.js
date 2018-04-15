@@ -24,10 +24,10 @@ Module.register("newsfeed",{
 		wrapTitle: true,
 		wrapDescription: true,
 		truncDescription: true,
-		lengthDescription: 400,
-		hideLoading: false,
+		lengthDescription: 800,
+		hideLoading: true,
 		reloadInterval: 5 * 60 * 1000, // every 5 minutes
-		updateInterval: 10 * 1000,
+		updateInterval: 60 * 1000, // changed to exery 2 mins
 		animationSpeed: 2.5 * 1000,
 		maxNewsItems: 0, // 0 for unlimited
 		ignoreOldItems: false,

@@ -50,7 +50,7 @@
     "mocha": "^4.1.0",
     "mocha-each": "^1.1.0",
     "spectron": "3.7.x",
-    "stylelint": "^8.4.0",
+    "stylelint": "^9.2.0",
     "stylelint-config-standard": "latest",
     "time-grunt": "latest",
     "yarn-or-npm": "^2.0.4"
